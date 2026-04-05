@@ -1,0 +1,10 @@
+{
+  "name": "literary-research-agent",
+  "description": "Literary research agent for writers — finds verified quotes from archives, builds citations, analyzes craft and theory across published texts",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gong"
+  },
+  "repository": "https://github.com/highschoolsmokers/literary-research-agent",
+  "license": "MIT"
+}
