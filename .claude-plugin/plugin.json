@@ -1,10 +1,10 @@
 {
-  "name": "literary-research-agent",
-  "description": "Literary research agent for writers — finds verified quotes from archives, builds citations, analyzes craft and theory across published texts",
-  "version": "1.0.0",
+  "name": "literary-research-plugin",
+  "description": "Literary research plugin for writers — finds verified quotes from archives, builds citations, analyzes craft and theory across published texts. Integrates with literary-truth-mcp for machine-verified source grounding.",
+  "version": "1.1.0",
   "author": {
     "name": "Gong"
   },
-  "repository": "https://github.com/highschoolsmokers/literary-research-agent",
+  "repository": "https://github.com/highschoolsmokers/literary-research-plugin",
   "license": "MIT"
 }
